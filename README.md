@@ -34,7 +34,7 @@ https://github.com/netology-code/sys-pattern-homework/commit/0d5f280122096894f74
 
 ### Задание 2
 
-https://github.com/mxi73-21/gitlab-hw.git 08e249a..982bea0
+https://github.com/netology-code/sys-pattern-homework/commit/982bea060332ea9fb8ff16fe7a8b45df6acb5417
 
 
 ### Задание 3
